@@ -1,5 +1,5 @@
 <?php 
-include_once("index.html");
+include_once("new.html");
 session_start();
 if(isset($_POST['submit'])) {
 $youremail = 'pisonpeakgroup@gmail.com';
